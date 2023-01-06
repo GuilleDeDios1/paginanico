@@ -1,0 +1,19 @@
+/*icono nf de la navbar*/
+#img-icono-navbar{
+    height: 40px;
+    width: 40px;
+}
+.carousel-inner{
+    max-height: 30rem;
+}
+@media(max-width:576px){
+    #intro{
+        width: 90% !important; 
+    }
+    .producto_fila{
+        width: 100% !important;
+    }
+    #equipo{
+        width: 90% !important;
+    }
+}
