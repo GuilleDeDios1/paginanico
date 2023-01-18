@@ -17,3 +17,26 @@
         width: 90% !important;
     }
 }
+
+#inicio{
+    width: 350px;
+    height: 500px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 6px;
+}
+.datos{
+    font-size:large;
+    color:darkcyan;
+    display: flex;
+    padding: 30px;
+}
+
+.controles {
+    width: 200px;
+    height: 20px;
+}
+#formulario{
+    display: flex;
+    flex-direction: column;
+}
